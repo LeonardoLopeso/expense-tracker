@@ -25,6 +25,8 @@ const App = () => {
       </C.Header>
       <C.Body>
         
+        {/* Parado a aula em 1:19:00 */}
+
         <InfoArea />
 
         {/* Área de inserção */}
